@@ -1,0 +1,75 @@
+{
+  "configVersion": 1,
+  "index": "https://aokiken.github.io/deep-breathing/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://aokiken.github.io/deep-breathing/favicon.ico",
+        "https://aokiken.github.io/deep-breathing/index.html",
+        "https://aokiken.github.io/deep-breathing/main.9f4d491252c44ca075af.js",
+        "https://aokiken.github.io/deep-breathing/polyfills.f6ae3e8b63939c618130.js",
+        "https://aokiken.github.io/deep-breathing/runtime.ec2944dd8b20ec099bf3.js",
+        "https://aokiken.github.io/deep-breathing/styles.76a1f3a2dd06c9dfc35d.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://aokiken.github.io/deep-breathing/assets/baseline-play_arrow-24px.svg",
+        "https://aokiken.github.io/deep-breathing/assets/baseline-replay-24px.svg",
+        "https://aokiken.github.io/deep-breathing/assets/icons/icon-128x128.png",
+        "https://aokiken.github.io/deep-breathing/assets/icons/icon-144x144.png",
+        "https://aokiken.github.io/deep-breathing/assets/icons/icon-152x152.png",
+        "https://aokiken.github.io/deep-breathing/assets/icons/icon-192x192.png",
+        "https://aokiken.github.io/deep-breathing/assets/icons/icon-384x384.png",
+        "https://aokiken.github.io/deep-breathing/assets/icons/icon-512x512.png",
+        "https://aokiken.github.io/deep-breathing/assets/icons/icon-72x72.png",
+        "https://aokiken.github.io/deep-breathing/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://aokiken.github.io/deep-breathing/assets/baseline-play_arrow-24px.svg": "5e794bbdff88dfe02518fd4edea828a50726d0f3",
+    "https://aokiken.github.io/deep-breathing/assets/baseline-replay-24px.svg": "58c75c5bde3830a67b5a58702f1d4e0da121d8ec",
+    "https://aokiken.github.io/deep-breathing/assets/icons/icon-128x128.png": "7f462db3a0a0ad3dbbda679892e3e3187532c806",
+    "https://aokiken.github.io/deep-breathing/assets/icons/icon-144x144.png": "99d23040e1ab0c2707db3354ca26a9ef2b32c632",
+    "https://aokiken.github.io/deep-breathing/assets/icons/icon-152x152.png": "b45be7dad58c2ae4c17d0d4767e206f3125e0b69",
+    "https://aokiken.github.io/deep-breathing/assets/icons/icon-192x192.png": "925c85db3ed6ca8613597ab6c2e4583c28dc5c99",
+    "https://aokiken.github.io/deep-breathing/assets/icons/icon-384x384.png": "9cd46ca040a053ac5041050f565544d025922056",
+    "https://aokiken.github.io/deep-breathing/assets/icons/icon-512x512.png": "fa7bf2f23ef18620f318dc7406d74004a4fa0cae",
+    "https://aokiken.github.io/deep-breathing/assets/icons/icon-72x72.png": "29c4f6b276eed4052df5c120ef5178a818bafa26",
+    "https://aokiken.github.io/deep-breathing/assets/icons/icon-96x96.png": "6924e05b3965df5961943dd387ea7709dd05b66c",
+    "https://aokiken.github.io/deep-breathing/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "https://aokiken.github.io/deep-breathing/index.html": "9203984617234243974df0256272a2308318b96e",
+    "https://aokiken.github.io/deep-breathing/main.9f4d491252c44ca075af.js": "ad88084ce75036d8b2351d310cb063c29e3ff988",
+    "https://aokiken.github.io/deep-breathing/polyfills.f6ae3e8b63939c618130.js": "ef2035f0504b4f77eac510c33595c81a5d09e33f",
+    "https://aokiken.github.io/deep-breathing/runtime.ec2944dd8b20ec099bf3.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "https://aokiken.github.io/deep-breathing/styles.76a1f3a2dd06c9dfc35d.css": "bd3831695a82d8b9a38909c906ae9352b08a5d8a"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
