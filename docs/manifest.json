@@ -4,8 +4,8 @@
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
-  "scope": "https://aokiken.github.io/deep-breathing",
-  "start_url": "https://aokiken.github.io/deep-breathing",
+  "scope": "https://aokiken.github.io/deep-breathing/index.html",
+  "start_url": "https://aokiken.github.io/deep-breathing/index.html",
   "icons": [
     {
       "src": "https://aokiken.github.io/deep-breathing/assets/icons/icon-72x72.png",
