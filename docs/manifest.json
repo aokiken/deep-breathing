@@ -1,9 +1,9 @@
 {
   "name": "deep-breathing",
-  "short_name": "deep-breathing",
+  "short_name": "1min",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
-  "display": "standalone",
+  "display": "fullscreen",
   "scope": "https://aokiken.github.io/deep-breathing/index.html",
   "start_url": "https://aokiken.github.io/deep-breathing/index.html",
   "icons": [
